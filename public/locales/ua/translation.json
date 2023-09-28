@@ -1,0 +1,15 @@
+{
+  "Language": "Мова",
+  "text": "Якийсь текст",
+  "creatTodo": {
+    "What needs to be done?": "Що потрібно зробити?"
+  },
+  "footer": {
+    "item left": "Залишилося елементів",
+    "items left": "Залишилося елементів",
+    "All": "Всі",
+    "Active": "Активні",
+    "Completed":  "Виконано",
+    "Clear completed": "Очистити виконані"
+  }
+}

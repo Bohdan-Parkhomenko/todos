@@ -1,0 +1,16 @@
+{
+  "Language": "Language",
+  "text": "some text",
+  "creatTodo": {
+    "What needs to be done?": "What needs to be done?"
+  },
+  "footer": {
+    "item left": "item left",
+    "items left": "items left",
+    "All": "All",
+    "Active": "Active",
+    "Completed":  "Completed",
+    "Clear completed": "Clear completed"
+  }
+
+}

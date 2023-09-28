@@ -1,0 +1,59 @@
+.footer { /*todo*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+    color: #777;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2)
+    /*0 8px 0 -3px #f6f6f6,*/
+    /*0 9px 1px -3px rgba(0, 0, 0, 0.2),*/
+    /*0 16px 0 -6px #f6f6f6,*/
+    /*0 17px 2px -6px rgba(0, 0, 0, 0.2);*/
+}
+
+.filter-todos {
+    color: inherit;
+    margin: 3px;
+    padding: 3px 7px;
+    text-decoration: none;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    background-color: transparent;
+}
+
+.filter-todos:hover {
+    border-color: rgb(244, 234, 233);
+}
+
+.list-filter {
+    display: flex;
+    flex-direction: row;
+}
+
+.clear-completed {
+    padding: 0;
+    border: 0;
+    background: none;
+    color: inherit;
+}
+
+.clear-completed:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.span {
+
+}
+
+.filter-active {
+    border-color: rgba(175, 47, 47, 0.2);
+}
+
+.display-none {
+    display: none;
+}
+
+.item-left{
+    display: flex;
+}

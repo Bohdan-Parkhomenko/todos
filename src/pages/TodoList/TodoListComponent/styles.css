@@ -1,0 +1,57 @@
+.todo {
+    width: 550px;
+    background: #fefefe;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2),
+    0 25px 50px 0 rgba(0, 0, 0, 0.1);
+
+    margin: 0 auto 30px;
+}
+
+.page-title {
+    color: rgba(175, 47, 47, 0.15);
+    text-align: center;
+    font-size: 100px;
+    margin-top: 10px;
+}
+
+.text-default {
+    font: 100px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+
+.input::placeholder {
+    color: #e6e6e6;
+    font-style: italic;
+}
+
+.input:focus {
+    outline: none;
+    color: #4d4d4d;
+}
+
+
+.do-not-show {
+    visibility: hidden;
+}
+
+.get-za {
+    width: 100px;
+    height: 50px;
+}
+
+.button-language-change {
+    color: gray;
+    margin: 3px;
+    padding: 3px 7px;
+    text-decoration: none;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    background-color: transparent;
+}
+
+.button-language-change:hover {
+    border-color: rgba(175, 47, 47, 0.2);
+}
+
+.list-language {
+}
